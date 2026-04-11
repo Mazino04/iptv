@@ -222,10 +222,10 @@ https://tx4.nexgen.bz:4000/TENNIS/index.m3u8
 http://200.229.147.142:8000/play/a03i/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports(src09).ar" tvg-name="TNT Sports" tvg-logo="https://media.tvup.cloud/canales/color_lg_67b4cef1fdf20e048d552fe3_1740150514798.png" group-title="Sports",TNT Sports
-http://38.224.73.146:8000/play/a1bl/index.m3u8
+http://45.173.231.22:8000/play/a081/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="TNT Sports Premium" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106780_dark_360w_270h.png" group-title="Sports",TNT Sports Premium
-http://38.224.73.146:8000/play/a13h/index.m3u8
+http://45.173.231.22:8000/play/a06f/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN.us" tvg-name="TSN 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34313_dark_360w_270h.png" group-title="Sports",TSN 1
 https://tx4.nexgen.bz:4000/TSN/index.m3u8
@@ -264,7 +264,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://tx1.nexgen.bz:4000/AZTECA7_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="AztecaInternacional(Spanish).mx" tvg-name="Azteca Internacional" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79968_dark_360w_270h.png" group-title="International",Azteca Internacional
-http://45.173.201.51:4000/play/a0r9/index.m3u8
+http://45.173.201.51:4000/play/a0lf/index.m3u8
 
 #EXTINF:-1 tvg-id="Aztecauno(Spanish).mx" tvg-name="Azteca Uno" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="International",Azteca Uno
 http://200.229.147.142:8000/play/a07d/index.m3u8
