@@ -61,15 +61,21 @@ https://tx3.nexgen.bz:4000/CBS_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.co" tvg-name="Claro Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="Sports",Claro Sports
 http://200.229.147.142:8000/play/a07m/index.m3u8
 
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png" group-title="Sports",Claro Sports 2
+http://181.119.111.25:4000/play/a08v/index.m3u8
+
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Deportes TVC" tvg-logo="https://od.lk/s/OTBfNTE4NTUwNTFf/deportes-tvc.png" group-title="Sports",Deportes TVC
+http://200.229.147.142:8000/play/a05g/index.m3u8
+
 #EXTINF:-1 tvg-id="DSPORTS(src09).ar" tvg-name="DSports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109752_dark_360w_270h.png" group-title="Sports",DSports
 http://217.26.190.76:8888/play/a0co/index.m3u8
-#http://38.224.73.146:8000/play/a0vs/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS2(src09).ar" tvg-name="DSports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107396_dark_360w_270h.png" group-title="Sports",DSports 2
-http://217.26.190.76:8888/play/a0jb/index.m3u8
+#http://217.26.190.76:8888/play/a0jb/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTSplus(src09).ar" tvg-name="DSports+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107455_dark_360w_270h.png" group-title="Sports",DSports+
-#http://192.187.102.26:80/playlistfinder/playlistfinder/25.m3u8
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN Argentina" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="Sports",ESPN Argentina
 http://45.173.201.51:4000/play/a0iu/index.m3u8
@@ -93,22 +99,19 @@ http://45.173.201.51:4000/play/a0hk/index.m3u8
 http://45.173.201.51:4000/play/a0ib/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN(Spanish).mx" tvg-name="ESPN MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="Sports",ESPN MX
-http://200.229.147.142:8000/play/a05v/index.m3u8
-#http://181.114.57.246:4000/play/3jZRN66nDhuZwLbW/index.m3u8
+http://200.229.147.142:8000/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2(Spanish).mx" tvg-name="ESPN 2 MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Sports",ESPN 2 MX
-http://200.229.147.142:8000/play/a03b/index.m3u8
-#http://181.114.57.246:4000/play/Z5TWRUY3869wGRLG/index.m3u8
+http://200.229.147.142:8000/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3(Spanish).mx" tvg-name="ESPN 3 MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Sports",ESPN 3 MX
-http://181.114.57.246:4000/play/4hrEpujghmYgjET8/index.m3u8
+http://200.229.147.142:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN4(Spanish).mx" tvg-name="ESPN 4 MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="Sports",ESPN 4 MX
 http://200.229.147.142:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN5Centroamerica(Spanish).mx" tvg-name="ESPN 5 MX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122027_dark_360w_270h.png" group-title="Sports",ESPN 5 MX
-http://200.229.147.142:8000/play/a05x/index.m3u8
-#http://181.114.57.246:4000/play/zMbqBSS3gramuTPy/index.m3u8
+http://200.229.147.142:8000/play/a04q/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Sports",ESPN
 https://tx4.nexgen.bz:4000/ESPN/index.m3u8
@@ -161,11 +164,20 @@ https://tx4.nexgen.bz:4000/FSP/index.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002RFZQ3.png_dark_360w_270h.png" group-title="Sports",Golf
 https://tx2.nexgen.bz:4000/GOLF/index.m3u8
 
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Liga 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Liga1_(Per%C3%BA)_logo.png" group-title="Sports",Liga 1
+http://217.26.190.76:8888/play/a0bt/index.m3u8
+
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Liga 1 MAX" tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/image_LIGA_1_MAX_fabe3155b8.png" group-title="Sports",Liga 1 MAX
+http://217.26.190.76:8888/play/a0j4/index.m3u8
+
 #EXTINF:-1 tvg-id="MLB.us" tvg-name="MLB HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s135239_dark_360w_270h.png" group-title="Sports",MLB HD
 https://tx2.nexgen.bz:4000/MLB/index.m3u8
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="Sports",MLB Network
 https://d1yqxv6gx128ca.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mmpgjr4zitcp0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MovistarDeportes(Spanish).es" tvg-name="Movistar Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87010_dark_360w_270h.png" group-title="Sports",Movistar Deportes
+http://217.26.190.76:8888/play/a0l9/index.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="Sports",NBA HD
 https://tx2.nexgen.bz:4000/NBA/index.m3u8
@@ -207,7 +219,8 @@ http://cord-cutter.net:8080/32ED4m/754887/135810
 http://212.102.60.231/SEC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="LaLigaSkySports(Spanish).do" tvg-name="Sky Sports La Liga" tvg-logo="https://od.lk/s/OTBfNTE0NjkyNzNf/Sky_Sports_LaLiga_II.png" group-title="Sports",Sky Sports La Liga
-http://181.119.111.25:4000/play/a04e/index.m3u8
+http://200.229.147.142:8000/play/a066/index.m3u8
+#http://181.119.111.25:4000/play/a04e/index.m3u8
 
 #EXTINF:-1 tvg-id="SportsnetOne(English).ca" tvg-name="Sportsnet One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68859_dark_360w_270h.png" group-title="Sports",Sportsnet One
 http://cord-cutter.net:8080/32ED4m/754887/10247
@@ -246,7 +259,8 @@ http://cord-cutter.net:8080/32ED4m/754887/57467
 https://tx2.nexgen.bz:4000/TUDN/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023XSVV.png_dark_360w_270h.png" group-title="Sports",TYC Sports
-https://livetrx03.vodgc.net/tyc24/index.m3u8
+http://200.229.147.142:8000/play/a08e/index.m3u8
+#https://livetrx03.vodgc.net/tyc24/index.m3u8
 
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87031_dark_360w_270h.png" group-title="Sports",Win Sports
 http://217.26.190.76:8888/play/a06a/index.m3u8
@@ -264,11 +278,10 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://tx1.nexgen.bz:4000/AZTECA7_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="AztecaInternacional(Spanish).mx" tvg-name="Azteca Internacional" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79968_dark_360w_270h.png" group-title="International",Azteca Internacional
-http://45.173.201.51:4000/play/a0lf/index.m3u8
+http://200.229.147.142:8000/play/a08u/index.m3u8
 
 #EXTINF:-1 tvg-id="Aztecauno(Spanish).mx" tvg-name="Azteca Uno" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="International",Azteca Uno
-http://200.229.147.142:8000/play/a07d/index.m3u8
-
+#http://200.229.147.142:8000/play/a07d/index.m3u8
 
 #EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="BBN TV" tvg-logo="https://od.lk/d/OTBfNDk5MTIzNDZf/FB_IMG_1767840339641-removebg-preview.png" group-title="International",BBN TV
 https://tx1.nexgen.bz:4000/BBN/index.m3u8
