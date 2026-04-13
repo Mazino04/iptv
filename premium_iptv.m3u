@@ -17,19 +17,19 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="Bitme(Spanish).do" tvg-name="Bitme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72801_dark_360w_270h.png" group-title="Animation",Bitme
 http://190.61.47.54:8000/play/a027/index.m3u8
 
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Crunchyroll" tvg-logo="https://od.lk/d/OTBfNTAwOTM5OTVf/Crunchyroll.png" group-title="Animation",Crunchyroll
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Crunchyroll" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Crunchyroll.png" group-title="Animation",Crunchyroll
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65652f7fc0fc88000883537alivestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=50babfe9-ecb5-11f0-a957-720050cd67a0
 
 #EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Inuyasha" tvg-logo="https://image.tmdb.org/t/p/original/l2JVIEVh7edX8J9vZVGLkVbf8VN.png" group-title="Animation",Inuyasha
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67c63b90a20c0399a381b816/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=50babfe9-ecb5-11f0-a957-720050cd67a0
 
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Naruto" tvg-logo="https://od.lk/d/OTBfNTAwOTQxNDJf/Naruto_logo.png" group-title="Animation",Naruto
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Naruto" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Naruto_logo.png" group-title="Animation",Naruto
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=50babfe9-ecb5-11f0-a957-720050cd67a0
 
 #EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="One Piece" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/One-Piece-Logo.png" group-title="Animation",One Piece
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=50babfe9-ecb5-11f0-a957-720050cd67a0
 
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Pluto Anime Movies" tvg-logo="https://od.lk/d/OTBfNDk5MDkyNDhf/thumbnail_1747069533044-removebg-preview.png" group-title="Animation",Pluto Anime Movies
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Pluto Anime Movies" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/thumbnail_1747069533044-removebg-preview.png" group-title="Animation",Pluto Anime Movies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67ed8f7e443f0671bc2b2368/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=50babfe9-ecb5-11f0-a957-720050cd67a0
 
 #EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Retro Crush" tvg-logo="https://explore.retrocrush.tv/wp-content/uploads/retrocrush_logo2.png" group-title="Animation",Retro Crush
@@ -122,28 +122,29 @@ https://tx2.nexgen.bz:4000/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes(Spanish).mx" tvg-name="ESPN Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25595_dark_360w_270h.png" group-title="Sports",ESPN Deportes
 https://tx3.nexgen.bz:4000/ESPN_DEPORTES/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPNPREMIUM(src09).ar" tvg-name="ESPN Premium" tvg-logo="https://od.lk/d/OTBfNTAwOTQzOTBf/ESPN_Premium_logo.png" group-title="Sports",ESPN Premium
+#EXTINF:-1 tvg-id="ESPNPREMIUM(src09).ar" tvg-name="ESPN Premium" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/ESPN_Premium_logo.png" group-title="Sports",ESPN Premium
 http://8.243.126.131:8000/play/a0ku/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="Sports",ESPN U
 http://cord-cutter.net:8080/32ED4m/754887/10255
 
-#EXTINF:-1 tvg-id="FlowSports(src05).jm" tvg-name="Flow Sports" tvg-logo="https://od.lk/d/OTBfNDk5MTA5NTJf/44-Flow-Sports-removebg-preview.png" group-title="Sports",Flow Sports
+#EXTINF:-1 tvg-id="FlowSports(src05).jm" tvg-name="Flow Sports" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/44-Flow-Sports-removebg-preview.png" group-title="Sports",Flow Sports
+
 https://tx1.nexgen.bz:4000/FLOW_SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-id="FOXSPORTS.ar" tvg-name="Fox Sports Argentina" tvg-logo="https://od.lk/d/OTBfNTAxNDQzNzJf/Fox_Sports_Argentina_2023.png" group-title="Sports",Fox Sports Argentina
+#EXTINF:-1 tvg-id="FOXSPORTS.ar" tvg-name="Fox Sports Argentina" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Fox_Sports_Argentina_2023.png" group-title="Sports",Fox Sports Argentina
 http://181.209.37.74:8001/play/a085/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://od.lk/d/OTBfNTAxNDQzNzRf/Fox_Sports_2_Argentina_2023.png" group-title="Sports",Fox Sports 2 Argentina
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Fox_Sports_2_Argentina_2023.png" group-title="Sports",Fox Sports 2 Argentina
 http://181.209.37.74:8001/play/a09b/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports3(Argentina).ar" tvg-name="Fox Sports 3 Argentina" tvg-logo="https://od.lk/d/OTBfNTAxNjIxMzRf/Fox_Sports_3_Argentina_2023.png" group-title="Sports",Fox Sports 3 Argentina
+#EXTINF:-1 tvg-id="FoxSports3(Argentina).ar" tvg-name="Fox Sports 3 Argentina" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Fox_Sports_3_Argentina_2023.png" group-title="Sports",Fox Sports 3 Argentina
 http://181.209.37.74:8001/play/a06y/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports(Spanish).mx" tvg-name="Fox Sports MX" tvg-logo="https://od.lk/d/OTBfNTAwOTQ1NjZf/Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="Sports",Fox Sports MX
+#EXTINF:-1 tvg-id="FoxSports(Spanish).mx" tvg-name="Fox Sports MX" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="Sports",Fox Sports MX
 http://200.229.147.142:8000/play/a06a/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports2(Spanish).mx" tvg-name="Fox Sports 2 MX" tvg-logo="https://od.lk/d/OTBfNTAwOTQ1Njlf/Fox_sports_3_mx.png" group-title="Sports",Fox Sports 2 MX
+#EXTINF:-1 tvg-id="FoxSports2(Spanish).mx" tvg-name="Fox Sports 2 MX" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Fox_sports_3_mx.png" group-title="Sports",Fox Sports 2 MX
 http://200.229.147.142:8000/play/a06b/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports3(Spanish).mx" tvg-name="Fox Sports 3 MX" tvg-logo="https://epg.iptvx.one/picons/fox-sports3-mx.png" group-title="Sports",Fox Sports 3 MX
@@ -185,34 +186,34 @@ https://tx2.nexgen.bz:4000/NBA/index.m3u8
 #EXTINF:-1 tvg-id="NBCSportsNOW.us" tvg-name="NBC Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114140_dark_360w_270h.png" group-title="Sports",NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Nexgen Sports 1" tvg-logo="https://od.lk/d/OTBfNTAwMTUwMzJf/Screenshot_20260111_210821_NEXGEN_TV-removebg-preview.png" group-title="Sports",Nexgen Sports 1
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Nexgen Sports 1" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Screenshot_20260111_210821_NEXGEN_TV-removebg-preview.png" group-title="Sports",Nexgen Sports 1
 https://tx2.nexgen.bz:4000/CTI_SPORT1/index.m3u8
 
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Nexgen Sports 2" tvg-logo="https://od.lk/d/OTBfNTAwMTUwMzNf/Screenshot_20260111_210825_NEXGEN_TV-removebg-preview.png" group-title="Sports",Nexgen Sports 2
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Nexgen Sports 2" tvg-logo="hhttps://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Screenshot_20260111_210825_NEXGEN_TV-removebg-preview.png" group-title="Sports",Nexgen Sports 2
 https://tx2.nexgen.bz:4000/CTI_SPORT2/index.m3u8
 
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Nexgen Sports 3" tvg-logo="https://od.lk/d/OTBfNTAwMTUwMzRf/Screenshot_20260111_210831_NEXGEN_TV-removebg-preview.png" group-title="Sports",Nexgen Sports 3
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Nexgen Sports 3" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Screenshot_20260111_210831_NEXGEN_TV-removebg-preview.png" group-title="Sports",Nexgen Sports 3
 https://tx2.nexgen.bz:4000/CTI_SPORT3/index.m3u8
 
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Nexgen Sports 4" tvg-logo="https://od.lk/d/OTBfNTAwMTUwMzVf/Screenshot_20260111_210837_NEXGEN_TV-removebg-preview.png" group-title="Sports",Nexgen Sports 4
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Nexgen Sports 4" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Screenshot_20260111_210837_NEXGEN_TV-removebg-preview.png" group-title="Sports",Nexgen Sports 4
 https://tx2.nexgen.bz:4000/CTI_SPORT4/index.m3u8
 
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Nexgen Sports 5" tvg-logo="https://od.lk/d/OTBfNTAwMTUwMzZf/Screenshot_20260111_210842_NEXGEN_TV-removebg-preview.png" group-title="Sports",Nexgen Sports 5
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Nexgen Sports 5" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Screenshot_20260111_210842_NEXGEN_TV-removebg-preview.png" group-title="Sports",Nexgen Sports 5
 https://tx3.nexgen.bz:4000/CTI_SPORT5/index.m3u8
 
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Nexgen Sports 6" tvg-logo="https://od.lk/d/OTBfNTAwMTUwMzdf/Screenshot_20260111_210848_NEXGEN_TV-removebg-preview.png" group-title="Sports",Nexgen Sports 6
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Nexgen Sports 6" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Screenshot_20260111_210848_NEXGEN_TV-removebg-preview.png" group-title="Sports",Nexgen Sports 6
 https://tx4.nexgen.bz:4000/CTI_SPORT6/index.m3u8
 
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Nexgen Sports 7" tvg-logo="https://od.lk/d/OTBfNTAwMTUwMzhf/Screenshot_20260111_210919_NEXGEN_TV-removebg-preview.png" group-title="Sports",Nexgen Sports 7
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Nexgen Sports 7" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Screenshot_20260111_210919_NEXGEN_TV-removebg-preview.png" group-title="Sports",Nexgen Sports 7
 https://tx4.nexgen.bz:4000/CTI_SPORT7/index.m3u8
 
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Nexgen Sports 8" tvg-logo="https://od.lk/d/OTBfNTAwMTUwMzlf/Screenshot_20260111_210924_NEXGEN_TV-removebg-preview.png" group-title="Sports",Nexgen Sports 8
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Nexgen Sports 8" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Screenshot_20260111_210924_NEXGEN_TV-removebg-preview.png" group-title="Sports",Nexgen Sports 8
 https://tx3.nexgen.bz:4000/CTI_SPORT8/index.m3u8
 
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45399_dark_360w_270h.png" group-title="Sports",NFL
 https://tx2.nexgen.bz:4000/NFL/index.m3u8
 
-#EXTINF:-1 tvg-id="OneSoccer(src05).ca" tvg-name="One Soccer" tvg-logo="https://od.lk/d/OTBfNTAyMDQzNTdf/s120464_h15_aa.png" group-title="Sports",One Soccer
+#EXTINF:-1 tvg-id="OneSoccer(src05).ca" tvg-name="One Soccer" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/s120464_h15_aa.png" group-title="Sports",One Soccer
 http://cord-cutter.net:8080/32ED4m/754887/135810
 
 #EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" group-title="Sports",SEC Network
@@ -271,7 +272,7 @@ http://217.26.190.76:8888/play/a06a/index.m3u8
 
 # === International Channels Start ===
 
-#EXTINF:-1 tvg-id="ADN40(Spanish).mx" tvg-name="ADN40" tvg-logo="https://od.lk/d/OTBfNTAxNDQzNzFf/Adn40_2022.png" group-title="International",ADN40
+#EXTINF:-1 tvg-id="ADN40(Spanish).mx" tvg-name="ADN40" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Adn40_2022.png" group-title="International",ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="Azteca7(Spanish).mx" tvg-name="Azteca 7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="International",Azteca 7
@@ -283,10 +284,10 @@ http://200.229.147.142:8000/play/a08u/index.m3u8
 #EXTINF:-1 tvg-id="Aztecauno(Spanish).mx" tvg-name="Azteca Uno" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="International",Azteca Uno
 #http://200.229.147.142:8000/play/a07d/index.m3u8
 
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="BBN TV" tvg-logo="https://od.lk/d/OTBfNDk5MTIzNDZf/FB_IMG_1767840339641-removebg-preview.png" group-title="International",BBN TV
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="BBN TV" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/FB_IMG_1767840339641-removebg-preview.png" group-title="International",BBN TV
 https://tx1.nexgen.bz:4000/BBN/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal3(src09).gt" tvg-name="Canal 3" tvg-logo="https://od.lk/d/OTBfNDk5MTM3NjJf/Canal3_Guatemala_2022-present.png" group-title="International",Canal 3
+#EXTINF:-1 tvg-id="Canal3(src09).gt" tvg-name="Canal 3" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Canal3_Guatemala_2022-present.png" group-title="International",Canal 3
 https://tx2.nexgen.bz:4000/CANAL3/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal7deGuatemala(src05).sv" tvg-name="Canal 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/7_de_guatemala-mediano.png" group-title="International",Canal 7
@@ -298,7 +299,7 @@ https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/
 #EXTINF:-1 tvg-id="CentroAmericaTV(Spanish).us" tvg-name="Centro America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44448_dark_360w_270h.png" group-title="International",Centro America
 https://tx5.nexgen.bz:4000/CENTROAMERICA/index.m3u8
 
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Channel 7" tvg-logo="https://od.lk/d/OTBfNDk5MTA5NDlf/images-1-removebg-preview.png" group-title="International",Channel 7
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Channel 7" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/images-1-removebg-preview.png" group-title="International",Channel 7
 https://tx1.nexgen.bz:4000/CHANNEL7/index.m3u8
 
 #EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002NF466.png_dark_360w_270h.png" group-title="International",CNBC
@@ -307,7 +308,7 @@ https://tx1.nexgen.bz:4000/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CNNEnEspanol(Spanish).us" tvg-name="CNN Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58631_dark_360w_270h.png" group-title="International",CNN Español
 https://tx4.nexgen.bz:4000/CNN_ESPANOL/index.m3u8
 
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="CTV3" tvg-logo="https://od.lk/d/OTBfNTAwMTYwNDBf/output-onlinepngtools.png" group-title="International",CTV3
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="CTV3" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/output-onlinepngtools.png" group-title="International",CTV3
 https://tx1.nexgen.bz:4000/CTV3/index.m3u8
 
 #EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65064_dark_360w_270h.png" group-title="International",Estrella TV
@@ -319,13 +320,13 @@ https://tx2.nexgen.bz:4000/ESTRELLAS/index.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119219_dark_360w_270h.png" group-title="International",Fox
 https://tx4.nexgen.bz:4000/FOX/index.m3u8
 
-#EXTINF:-1 tvg-id="Galavision(East)(src09).us" tvg-name="Galavision" tvg-logo="https://od.lk/d/OTBfNTAxNDQzODBf/Galavision_Logo_2024.png" group-title="International",Galavision
+#EXTINF:-1 tvg-id="Galavision(East)(src09).us" tvg-name="Galavision" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Galavision_Logo_2024.png" group-title="International",Galavision
 https://tx2.nexgen.bz:4000/GALAVISION/index.m3u8
 
 #EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Greater Belize Media" tvg-logo="https://greaterbelize.com/wp-content/uploads/2025/05/GBM-Logo-Color-1.png" group-title="International",Greater Belize Media
 https://tx1.nexgen.bz:4000/CHANNEL5/index.m3u8
 
-#EXTINF:-1 tvg-id="Guatevision(src09).gt" tvg-name="Guatevision" tvg-logo="https://od.lk/d/OTBfNTAxNDQzNzlf/Logo_alta.png" group-title="International",Guatevision
+#EXTINF:-1 tvg-id="Guatevision(src09).gt" tvg-name="Guatevision" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Logo_alta.png" group-title="International",Guatevision
 https://tx2.nexgen.bz:4000/GUATEVISION/index.m3u8
 
 #EXTINF:-1 tvg-id="La1(Spanish).es" tvg-name="La 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91203_dark_360w_270h.png" group-title="International",La 1
@@ -334,7 +335,7 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La2(Spanish).es" tvg-name="La 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91206_dark_360w_270h.png" group-title="International",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="LOVE TV" tvg-logo="https://od.lk/d/OTBfNDk5MTEzNjNf/Love-Television-belize-removebg-preview.png" group-title="International",LOVE TV
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="LOVE TV" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Love-Television-belize-removebg-preview.png" group-title="International",LOVE TV
 https://tx1.nexgen.bz:4000/LOVE_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Milenio(Spanish).mx" tvg-name="Milenio" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61719_dark_360w_270h.png" group-title="International",Milenio
@@ -346,16 +347,16 @@ https://tx1.nexgen.bz:4000/NBC_UNIVERSO/index.m3u8
 #EXTINF:-1 tvg-id="PasionesTV(Spanish).mx" tvg-name="Pasiones" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71621_dark_360w_270h.png" group-title="International",Pasiones
 http://45.173.231.22:8000/play/a06n/index.m3u8
 
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="PLUS TV" tvg-logo="https://od.lk/d/OTBfNDk5MTYyNzdf/nobg.png" group-title="International",PLUS TV
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="PLUS TV" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/nobg.png" group-title="International",PLUS TV
 https://tx1.nexgen.bz:4000/PLUS_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="RCNplus(Spanish).us" tvg-name="RCN" tvg-logo="https://od.lk/d/OTBfNTAxNDQzNzdf/LETRASRCNTV.png" group-title="International",RCN
+#EXTINF:-1 tvg-id="RCNplus(Spanish).us" tvg-name="RCN" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/LETRASRCNTV.png" group-title="International",RCN
 https://tx2.nexgen.bz:4000/RCN/index.m3u8
 
-#EXTINF:-1 tvg-id="RTEnespanol(Spanish).es" tvg-name="RT Español" tvg-logo="https://od.lk/d/OTBfNTAwMDkxNzJf/RT_Espa_253Fol_2010-removebg-preview.png" group-title="International",RT Español
+#EXTINF:-1 tvg-id="RTEnespanol(Spanish).es" tvg-name="RT Español" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/RT_Espa_253Fol_2010-removebg-preview.png" group-title="International",RT Español
 https://tx2.nexgen.bz:4000/RT_ESPANOL/index.m3u8
 
-#EXTINF:-1 tvg-id="Teleceiba(src09).hn" tvg-name="Teleceiba" tvg-logo="https://od.lk/d/OTBfNTAwMDkwNTNf/images-removebg-preview.png" group-title="International",Teleceiba
+#EXTINF:-1 tvg-id="Teleceiba(src09).hn" tvg-name="Teleceiba" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/images-removebg-preview.png" group-title="International",Teleceiba
 https://tx2.nexgen.bz:4000/TELECEIBA/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-name="Telemundo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="International",Telemundo
@@ -370,11 +371,11 @@ http://190.60.39.195:8000/play/a0s1/index.m3u8
 #EXTINF:-1 tvg-id="TeleSur(Spanish).de" tvg-name="Telesur Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118645_dark_360w_270h.png" group-title="International",Telesur Español
 https://tx1.nexgen.bz:4000/TELESUR_ESPANOL/index.m3u8
 
-#EXTINF:-1 tvg-id="TelevisionPublica(src09).ar" tvg-name="Televisión Pública 24h" tvg-logo="https://od.lk/d/OTBfNTAxNDQzNzZf/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" group-title="International",Televisión Pública 24h
+#EXTINF:-1 tvg-id="TelevisionPublica(src09).ar" tvg-name="Televisión Pública 24h" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" group-title="International",Televisión Pública 24h
 https://g4.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
 
-#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="The Weather Channel" tvg-logo="https://od.lk/d/OTBfNTAxNDQzNzVf/The_Weather_Channel_logo_2005-present.png" group-title="International",The Weather Channel
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="The Weather Channel" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/The_Weather_Channel_logo_2005-present.png" group-title="International",The Weather Channel
 https://tx1.nexgen.bz:4000//WEATHER/index.m3u8
 
 #EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="TNC 10" tvg-logo="https://tnc.bz/wp-content/uploads/2024/08/TNC10_logo_White.png" group-title="International",TNC 10
@@ -389,7 +390,7 @@ https://tx3.nexgen.bz:4000/TVE/index.m3u8
 #EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univision" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="International",Univision
 https://tx4.nexgen.bz:4000/UNIVISION/index.m3u8
 
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Wave TV" tvg-logo="https://od.lk/d/OTBfNDk5MTA5NTBf/images-2-removebg-preview.png" group-title="International",Wave TV
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Wave TV" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/images-2-removebg-preview.png" group-title="International",Wave TV
 https://tx1.nexgen.bz:4000/WAVE/index.m3u8
 
 # === International Channels End ===
@@ -469,7 +470,7 @@ https://tx4.nexgen.bz:4000/HBO_SIG/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.co" tvg-name="HBO Xtreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="Entertainment",HBO Xtreme
 https://tx4.nexgen.bz:4000/HBO_XTREME/index.m3u8
 
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Hellmark" tvg-logo="https://od.lk/d/OTBfNTAwMDkwOThf/pngfind.com-hallmark-logo-png-1392464.png" group-title="Entertainment",Hellmark
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Hellmark" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/pngfind.com-hallmark-logo-png-1392464.png" group-title="Entertainment",Hellmark
 https://tx3.nexgen.bz:4000/HALLMARK/index.m3u8
 
 #EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="Entertainment",HGTV
@@ -493,7 +494,7 @@ https://tx1.nexgen.bz:4000/NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="Entertainment",Paramount Network
 https://tx2.nexgen.bz:4000/PARAMOUNT/index.m3u8
 
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="RUSH PRIME" tvg-logo="https://od.lk/d/OTBfNTAxNDQzODZf/Rush%20Prime%20logo.png" group-title="Entertainment",RUSH PRIME
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="RUSH PRIME" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Rush%20Prime%20logo.png" group-title="Entertainment",RUSH PRIME
 https://tx2.nexgen.bz:4000/RUSH_PRIME/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalSony.ar" tvg-name="Sony" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71721_dark_360w_270h.png" group-title="Entertainment",Sony Channel
@@ -529,7 +530,7 @@ https://tx3.nexgen.bz:4000/TRUTV/index.m3u8
 #EXTINF:-1 tvg-id="Universal.au" tvg-name="Universal" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103160_dark_360w_270h.png" group-title="Entertainment",Universal
 https://tx4.nexgen.bz:4000/UNIVERSAL/index.m3u8
 
-#EXTINF:-1 tvg-id="USANetwork(English).co" tvg-name="USA HD" tvg-logo="https://od.lk/d/OTBfNTAxNDQzNzNf/USA_Network_logo_%282006%29.png" group-title="Entertainment",USA HD
+#EXTINF:-1 tvg-id="USANetwork(English).co" tvg-name="USA HD" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/USA_Network_logo_%282006%29.png" group-title="Entertainment",USA HD
 https://tx4.nexgen.bz:4000/USA/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="USA(Spanish).mx" tvg-name="USA LAT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="Entertainment",USA LAT
