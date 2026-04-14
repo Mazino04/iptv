@@ -219,7 +219,7 @@ http://cord-cutter.net:8080/32ED4m/754887/135810
 #EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" group-title="Sports",SEC Network
 http://212.102.60.231/SEC_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="LaLigaSkySports(Spanish).do" tvg-name="Sky Sports La Liga" tvg-logo="https://od.lk/s/OTBfNTE0NjkyNzNf/Sky_Sports_LaLiga_II.png" group-title="Sports",Sky Sports La Liga
+#EXTINF:-1 tvg-id="LaLigaSkySports(Spanish).do" tvg-name="Sky Sports La Liga" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Sky_Sports_LaLiga_II.png" group-title="Sports",Sky Sports La Liga
 http://200.229.147.142:8000/play/a066/index.m3u8
 #http://181.119.111.25:4000/play/a04e/index.m3u8
 
@@ -308,7 +308,7 @@ https://tx1.nexgen.bz:4000/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CNNEnEspanol(Spanish).us" tvg-name="CNN Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58631_dark_360w_270h.png" group-title="International",CNN Español
 https://tx4.nexgen.bz:4000/CNN_ESPANOL/index.m3u8
 
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="CTV3" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/output-onlinepngtools.png" group-title="International",CTV3
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="CTV3" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/output-onlinepngtools(5).png" group-title="International",CTV3
 https://tx1.nexgen.bz:4000/CTV3/index.m3u8
 
 #EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65064_dark_360w_270h.png" group-title="International",Estrella TV
