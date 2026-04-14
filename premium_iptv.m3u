@@ -64,7 +64,7 @@ http://200.229.147.142:8000/play/a07m/index.m3u8
 #EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png" group-title="Sports",Claro Sports 2
 http://181.119.111.25:4000/play/a08v/index.m3u8
 
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Deportes TVC" tvg-logo="https://od.lk/s/OTBfNTE4NTUwNTFf/deportes-tvc.png" group-title="Sports",Deportes TVC
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Deportes TVC" tvg-logo=https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/deportes-tvc.png" group-title="Sports",Deportes TVC
 http://200.229.147.142:8000/play/a05g/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS(src09).ar" tvg-name="DSports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109752_dark_360w_270h.png" group-title="Sports",DSports
@@ -189,7 +189,7 @@ https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Nexgen Sports 1" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Screenshot_20260111_210821_NEXGEN_TV-removebg-preview.png" group-title="Sports",Nexgen Sports 1
 https://tx2.nexgen.bz:4000/CTI_SPORT1/index.m3u8
 
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Nexgen Sports 2" tvg-logo="hhttps://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Screenshot_20260111_210825_NEXGEN_TV-removebg-preview.png" group-title="Sports",Nexgen Sports 2
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Nexgen Sports 2" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Screenshot_20260111_210825_NEXGEN_TV-removebg-preview.png" group-title="Sports",Nexgen Sports 2
 https://tx2.nexgen.bz:4000/CTI_SPORT2/index.m3u8
 
 #EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Nexgen Sports 3" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Screenshot_20260111_210831_NEXGEN_TV-removebg-preview.png" group-title="Sports",Nexgen Sports 3
