@@ -64,7 +64,7 @@ http://200.229.147.142:8000/play/a07m/index.m3u8
 #EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png" group-title="Sports",Claro Sports 2
 http://181.119.111.25:4000/play/a08v/index.m3u8
 
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Deportes TVC" tvg-logo=https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/deportes-tvc.png" group-title="Sports",Deportes TVC
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Deportes TVC" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/deportes-tvc.png" group-title="Sports",Deportes TVC
 http://200.229.147.142:8000/play/a05g/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS(src09).ar" tvg-name="DSports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109752_dark_360w_270h.png" group-title="Sports",DSports
