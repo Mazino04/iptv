@@ -68,7 +68,7 @@ http://181.119.111.25:4000/play/a08v/index.m3u8
 http://200.229.147.142:8000/play/a05g/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS(src09).ar" tvg-name="DSports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109752_dark_360w_270h.png" group-title="Sports",DSports
-http://217.26.190.76:8888/play/a0co/index.m3u8
+http://8.243.126.131:8000/play/a05a/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS2(src09).ar" tvg-name="DSports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107396_dark_360w_270h.png" group-title="Sports",DSports 2
 #http://217.26.190.76:8888/play/a0jb/index.m3u8
@@ -81,7 +81,7 @@ http://217.26.190.76:8888/play/a0jb/index.m3u8
 http://45.173.201.51:4000/play/a0iu/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.co" tvg-name="ESPN 2 Argentina" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Sports",ESPN 2 Argentina
-http://45.173.201.51:4000/play/a0im/index.m3u8
+http://45.173.201.51:4000/play/a0m2/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3.co" tvg-name="ESPN 3 Argentina" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Sports",ESPN 3 Argentina
 http://45.173.201.51:4000/play/a0i1/index.m3u8
@@ -123,7 +123,7 @@ https://tx2.nexgen.bz:4000/ESPN2/index.m3u8
 https://tx3.nexgen.bz:4000/ESPN_DEPORTES/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPREMIUM(src09).ar" tvg-name="ESPN Premium" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/ESPN_Premium_logo.png" group-title="Sports",ESPN Premium
-http://8.243.126.131:8000/play/a0ku/index.m3u8
+http://8.243.126.131:8000/play/a053/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="Sports",ESPN U
 http://cord-cutter.net:8080/32ED4m/754887/10255
@@ -166,10 +166,10 @@ https://tx4.nexgen.bz:4000/FSP/index.m3u8
 https://tx2.nexgen.bz:4000/GOLF/index.m3u8
 
 #EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Liga 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Liga1_(Per%C3%BA)_logo.png" group-title="Sports",Liga 1
-http://217.26.190.76:8888/play/a0bt/index.m3u8
+http://45.173.201.51:4000/play/a0km/index.m3u8
 
 #EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Liga 1 MAX" tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/image_LIGA_1_MAX_fabe3155b8.png" group-title="Sports",Liga 1 MAX
-http://217.26.190.76:8888/play/a0j4/index.m3u8
+http://45.173.201.51:4000/play/a0kk/index.m3u8
 
 #EXTINF:-1 tvg-id="MLB.us" tvg-name="MLB HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s135239_dark_360w_270h.png" group-title="Sports",MLB HD
 https://tx2.nexgen.bz:4000/MLB/index.m3u8
@@ -178,7 +178,7 @@ https://tx2.nexgen.bz:4000/MLB/index.m3u8
 https://d1yqxv6gx128ca.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mmpgjr4zitcp0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MovistarDeportes(Spanish).es" tvg-name="Movistar Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87010_dark_360w_270h.png" group-title="Sports",Movistar Deportes
-http://217.26.190.76:8888/play/a0l9/index.m3u8
+http://8.243.126.131:8000/play/a052/index.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="Sports",NBA HD
 https://tx2.nexgen.bz:4000/NBA/index.m3u8
@@ -264,7 +264,7 @@ http://200.229.147.142:8000/play/a08e/index.m3u8
 #https://livetrx03.vodgc.net/tyc24/index.m3u8
 
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87031_dark_360w_270h.png" group-title="Sports",Win Sports
-http://217.26.190.76:8888/play/a06a/index.m3u8
+http://8.243.126.131:8000/play/a025/index.m3u8
 
 
 # === Sports Channels End ===
@@ -345,7 +345,7 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 https://tx1.nexgen.bz:4000/NBC_UNIVERSO/index.m3u8
 
 #EXTINF:-1 tvg-id="PasionesTV(Spanish).mx" tvg-name="Pasiones" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71621_dark_360w_270h.png" group-title="International",Pasiones
-http://45.173.231.22:8000/play/a06n/index.m3u8
+http://45.173.201.51:4000/play/a0ga/index.m3u8
 
 #EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="PLUS TV" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/nobg.png" group-title="International",PLUS TV
 https://tx1.nexgen.bz:4000/PLUS_TV/index.m3u8
@@ -453,7 +453,7 @@ https://tx4.nexgen.bz:4000/HBO_CARIBBEAN/index.m3u8
 https://tx4.nexgen.bz:4000/HBO2/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOFamily.co" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="Entertainment",HBO Family
-http://181.209.37.74:8001/play/a07p/index.m3u8
+http://8.243.126.131:8000/play/a0f6/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOMundi.co" tvg-name="HBO Mundi" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="Entertainment",HBO Mundi
 https://tx4.nexgen.bz:4000/HBO_MUNDI/index.m3u8
