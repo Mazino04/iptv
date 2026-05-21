@@ -20,6 +20,9 @@ http://190.61.47.54:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Crunchyroll" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Crunchyroll.png" group-title="Animation",Crunchyroll
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65652f7fc0fc88000883537alivestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=50babfe9-ecb5-11f0-a957-720050cd67a0
 
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Fullmetal Alchemist: Brotherhood" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/refs/heads/main/iptv-logos/image.bbe66ef5_re.9638f203.png" group-title="Animation",Fullmetal Alchemist: Brotherhood
+https://amg01923-amg01923c36-ondemandkorea-amesia-6119.playouts.now.amagi.tv/playlist/amg01923-odkmedia-amasiandummy16-ondemandkoreaamesia/playlist.m3u8
+
 #EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="Inuyasha" tvg-logo="https://image.tmdb.org/t/p/original/l2JVIEVh7edX8J9vZVGLkVbf8VN.png" group-title="Animation",Inuyasha
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67c63b90a20c0399a381b816/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=50babfe9-ecb5-11f0-a957-720050cd67a0
 
