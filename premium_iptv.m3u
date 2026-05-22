@@ -139,13 +139,13 @@ http://cord-cutter.net:8080/32ED4m/754887/10255
 https://tx1.nexgen.bz:4000/FLOW_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXSPORTS.ar" tvg-name="Fox Sports Argentina" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Fox_Sports_Argentina_2023.png" group-title="Sports",Fox Sports Argentina
-http://181.209.37.74:8001/play/a085/index.m3u8
+http://190.7.19.197:232/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Fox_Sports_2_Argentina_2023.png" group-title="Sports",Fox Sports 2 Argentina
-http://181.209.37.74:8001/play/a09b/index.m3u8
+http://190.7.19.197:232/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports3(Argentina).ar" tvg-name="Fox Sports 3 Argentina" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Fox_Sports_3_Argentina_2023.png" group-title="Sports",Fox Sports 3 Argentina
-http://181.209.37.74:8001/play/a06y/index.m3u8
+http://190.7.19.197:232/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports(Spanish).mx" tvg-name="Fox Sports MX" tvg-logo="https://raw.githubusercontent.com/Mazino04/iptv/main/iptv-logos/Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="Sports",Fox Sports MX
 http://200.229.147.142:8000/play/a06a/index.m3u8
